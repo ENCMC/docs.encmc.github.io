@@ -50,9 +50,9 @@ export default{
           text: '更新日志',
           items: [
             // This shows `/guide/index.md` page.
-            { text: '服务器', link: '/update-logs/server.md' }, // /guide/index.md
-            { text: '普通版客户端', link: '/update-logs/client-C.md' }, // /guide/one.md
-            { text: '沉浸版客户端', link: '/update-logs/client-I+C.md' }
+            { text: '服务器', link: '/update-logs/server.md' } // /guide/index.md
+//          { text: '普通版客户端', link: '/update-logs/client-C.md' }, // /guide/one.md
+//          { text: '沉浸版客户端', link: '/update-logs/client-I+C.md' }
           ]
         }
       ],
