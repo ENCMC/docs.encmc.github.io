@@ -20,9 +20,6 @@ hero:
     - theme: alt
       text: 查看宣传帖
       link: https://www.mcbbs.net/thread-1385660-1-1.html
-    - theme: alt
-      text: 前往娱乐服文档
-      link: https://docs.xiye.world/
   image:
     src: https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/xiye/docs/imag/docs/token.png
 #features:

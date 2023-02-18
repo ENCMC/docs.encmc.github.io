@@ -130,7 +130,7 @@ xieao赞助了10CNYCNY
 
 hym72赞助了2CNY
 
-mUwUm赞助了50CNY
+mUwUm赞助了155CNY
 
 jiujiu赞助了5CNY
 
@@ -147,3 +147,9 @@ FlowerKagamine赞助了10CNY
 OH_MC赞助了2CNY
 
 ZhangRT1241赞助了70CNY
+
+Winnchester_Pro赞助了30CNY
+
+a233赞助了5CNY
+
+Salmon赞助了5CNY
