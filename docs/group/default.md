@@ -55,7 +55,7 @@ titleTemplate: 冒险家
 
 出售物品: **/worthlist**
 
-mcmmo相关: **/mcmmo help**
+mcmmo: **/mmv**
 
 称号菜单: **/plt open**
 

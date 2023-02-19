@@ -19,3 +19,13 @@ titleTemplate: 艺术家
 最多创建30个家
 
 **新增命令**
+
+快捷末影箱: **/ender**
+
+快捷铁砧: **/anvil**
+
+快捷锻造台: **/smithingtable**
+
+快捷砂轮: **/grindstone**
+
+快捷切石机: **/stonecutter**

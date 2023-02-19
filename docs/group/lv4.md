@@ -19,3 +19,9 @@ titleTemplate: 药水师
 最多创建15个家
 
 **新增命令**
+
+快捷工作台: **/workbench**
+
+快捷织布机: **/loom**
+
+快捷制图台: **/cartographytable**
