@@ -18,6 +18,8 @@ titleTemplate: 艺术家
 
 最多创建30个家
 
+聊天默认新配色 <font color=#bc84a8>青蛤壳紫</font>
+
 **新增命令**
 
 快捷末影箱: **/ender**
