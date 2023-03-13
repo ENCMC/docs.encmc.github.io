@@ -20,6 +20,8 @@ titleTemplate: 药水师
 
 聊天可以使用&彩色文字
 
+随身背包27格
+
 **新增命令**
 
 快捷工作台: **/workbench**
@@ -27,3 +29,7 @@ titleTemplate: 药水师
 快捷织布机: **/loom**
 
 快捷制图台: **/cartographytable**
+
+管理家具: **/furniture manage**
+
+随身背包: **/bp**
