@@ -24,8 +24,6 @@ titleTemplate: 蓑笠翁
 
 购买头颅: **/hdb**
 
-购买称号: **/plt shop**
-
 创建公会: **/plg create 公会名**
 
 躺下: **/lay**
