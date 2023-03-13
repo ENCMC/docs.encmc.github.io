@@ -45,6 +45,7 @@ export default{
             { text: '蓑笠翁', link: '/group/lv3.md' },
             { text: '药水师', link: '/group/lv4.md' },
             { text: '艺术家', link: '/group/lv5.md' },
+            { text: '权限购买', link: '/group/prem.md' },
           ]
         }
       ],
