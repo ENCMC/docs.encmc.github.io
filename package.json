@@ -1,5 +1,5 @@
 {
-  "name": "ENCMC",
+  "name": "encmc",
   "version": "2.0.0",
   "description": "夕夜Craft站点",
   "main": "index.js",
@@ -7,12 +7,11 @@
   "author": "YunDouYue",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.34",
-    "vue": "^3.2.45"
+    "vitepress": "^1.0.0-alpha.75"
   },
-    "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+  "scripts": {
+    "docs:dev": "vitepress dev .",
+    "docs:build": "vitepress build .",
+    "docs:preview": "vitepress preview ."
   }
 }
